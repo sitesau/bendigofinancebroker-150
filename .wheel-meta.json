@@ -1,0 +1,17 @@
+{
+  "wheel_id": 70,
+  "slug": "bendigofinancebroker-150",
+  "project": "business-loans-bendigo-bendigofinancebroker-150",
+  "parent_t1_ref": "bendigofinancebroker-002",
+  "node_role": "buffer",
+  "money_target": "bendigofinancebroker.com.au",
+  "primary_kw": "business loans bendigo",
+  "intended_url": "https://business-loans-bendigo-bendigofinancebroker-150.vercel.app/",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/business-loans-bendigo/",
+      "anchor": "business loans bendigo",
+      "rel": "follow"
+    }
+  ]
+}

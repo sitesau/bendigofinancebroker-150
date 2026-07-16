@@ -1,16 +1,17 @@
 {
-  "wheel_id": 70,
+  "wheel_id": 83,
+  "structure": "umbrella",
   "slug": "bendigofinancebroker-150",
-  "project": "business-loans-bendigo-bendigofinancebroker-150",
-  "parent_t1_ref": "bendigofinancebroker-002",
+  "project": "bendigo-finance-broker-b-150",
+  "parent_t1_ref": "bendigofinancebroker-001",
   "node_role": "buffer",
   "money_target": "bendigofinancebroker.com.au",
-  "primary_kw": "business loans bendigo",
-  "intended_url": "https://business-loans-bendigo-bendigofinancebroker-150.vercel.app/",
+  "primary_kw": "bendigo finance broker",
+  "intended_url": "https://bendigo-finance-broker-b-150.pages.dev/",
   "links": [
     {
-      "target_url": "https://sitesau.github.io/business-loans-bendigo/",
-      "anchor": "business loans bendigo",
+      "target_url": "https://bendigo-finance-broker-guide.vercel.app",
+      "anchor": "bendigo finance broker",
       "rel": "follow"
     }
   ]
